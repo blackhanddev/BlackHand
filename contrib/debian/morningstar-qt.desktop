@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BlackHand
+Comment=BlackHand P2P Cryptocurrency
+Comment[fr]=BlackHand, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BlackHand, eşten eşe kriptografik sanal para birimi
+Comment[es]=BlackHand, una criptomoneda P2P
+Exec=/usr/bin/BlackHand-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/BlackHand;
+Categories=Office;
